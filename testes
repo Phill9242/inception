@@ -1,0 +1,1 @@
+docker-compose exec mariadb mysql -u phil -p'SemCaries12%' -h mariadb -e "SHOW DATABASES;"
